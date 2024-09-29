@@ -1,2 +1,2 @@
 # video-editor
-simple video editor
+My personal video editor.
